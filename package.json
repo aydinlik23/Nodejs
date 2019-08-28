@@ -1,0 +1,14 @@
+{
+  "name": "date-manupilation",
+  "version": "1.0.0",
+  "description": "futureday",
+  "main": "moment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aydin",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}

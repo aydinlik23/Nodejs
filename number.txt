@@ -1,0 +1,7 @@
+(a,b) => {
+    let myNum=[];
+    for(let i = one; i <= two; i++){
+        myNum.push(i);
+    }
+   return myNum;
+}
