@@ -1,4 +1,4 @@
-(a,b) => {
+(one,two) => {
     let myNum=[];
     for(let i = one; i <= two; i++){
         myNum.push(i);
